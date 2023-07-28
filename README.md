@@ -100,5 +100,12 @@ To interact with the voice assistant, you must use the wake word "Alexa" before 
 - "Alexa, play See You Again": The assistant will search and play the song "See You Again" on YouTube.
 Please note that the wake word "Alexa" is required for the assistant to respond to your commands.
 
+
+## Demo Video
+
+Check out the [Demo Video](https://drive.google.com/file/d/1Eznn0daDppHbN5frlRN0m6TrABjL0sDj/view?usp=drive_link) to see the voice assistant in action!
+
+
+
 Contributing
 Contributions to this project are welcome! If you have any ideas or suggestions to improve the voice assistant, feel free to submit issues or pull requests.
