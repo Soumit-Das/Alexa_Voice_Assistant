@@ -33,23 +33,27 @@ You can install the required dependencies using pip. Open your terminal or comma
 
 ```
 pip install speech_recognition
-Copy code
+```
+```
 pip install pyttsx3
-Copy code
+```
+```
 pip install pywhatkit
-Copy code
+```
+```
 pip install datetime
-Copy code
+```
+```
 pip install wikipedia
-Copy code
+```
+```
 pip install pyjokes
 ```
 
 ## Usage
 To use the voice assistant, import the necessary modules and run the Python script.
 
-python
-Copy code
+```
 # Import the required modules
 import speech_recognition as sr
 import pyttsx3
@@ -57,9 +61,9 @@ import pywhatkit
 import datetime
 import wikipedia
 import pyjokes
+```
 
-# Your code to use the voice assistant here
-# ...
+
 ## Features
 The voice assistant can perform the following tasks:
 
